@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/Merkle/:/",
-    "/content/Merkle/configuration:/.helix/config.json"
+    "/content/merkle-poc/:/",
+    "/content/merkle-poc/configuration:/.helix/config.json"
   ]
 }
